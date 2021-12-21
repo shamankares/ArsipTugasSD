@@ -1,2 +1,2 @@
-# testing
-Jadi ya, saya manusia biasa yang ingin belajar apa itu dunia.
+# Arsip Tugas Struktur Data
+Repo ini bertujuan untuk mengarsipkan tugas Struktur Data saya.
